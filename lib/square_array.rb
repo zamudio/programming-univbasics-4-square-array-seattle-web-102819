@@ -2,6 +2,6 @@ def square_array(array)
   # your code here
   counter = 0
   
-  while ... do
+  while counter < array.length do
   array[counter]
 end
